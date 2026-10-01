@@ -3,4 +3,4 @@ pandas
 numpy
 scikit-learn
 cryptography
-google-genai
+huggingface_hub
